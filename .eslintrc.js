@@ -1,2 +1,2 @@
-const config = require('@keeper/eslint-confi');
+const config = require('@nlw04/eslint-config');
 module.exports = config;

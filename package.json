@@ -1,5 +1,5 @@
 {
-	"name": "keeper",
+	"name": "nlw04",
 	"version": "0.0.1",
 	"description": "monorepo for Keeper project",
 	"private": true,
@@ -27,7 +27,7 @@
 	"devDependencies": {
 		"@commitlint/cli": "^11.0.0",
 		"@commitlint/config-conventional": "^11.0.0",
-		"@keeper/eslint-config": "*",
+		"@nlw04/eslint-config": "*",
 		"commitizen": "^4.2.1",
 		"cross-env": "^7.0.2",
 		"eslint-plugin-import-helpers": "^1.1.0",
