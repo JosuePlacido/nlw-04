@@ -39,7 +39,7 @@ A ideia do _move.it_ é ajudar pessoas que ficam muito tempo na frente do compu
 -   Acesse a pasta **NLW-04** pelo o terminal
 
     ```bash
-    cd NLW-04
+    cd NLW-04/projects/frontend
     ```
 
 -   Faça a instalação das dependências do projeto
