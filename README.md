@@ -23,8 +23,9 @@ A ideia do _move.it_ é ajudar pessoas que ficam muito tempo na frente do compu
 
 <h2 id="tecnologias">Tecnologias</h2>
 
--   🔵 [TypeScript][typescript]
--   ⚛️ [React][reactjs]
+-   [TypeScript][typescript]
+-   [React][reactjs]
+-   [NextJS][nextjs]
 
     ... 🚧 em construção 🚧...
 
@@ -131,3 +132,4 @@ Este projeto esta sobe a licença [MIT](./LICENSE).
 [reactnative]: https://reactnative.dev/
 [rs]: https://rocketseat.com.br
 [rocketseat]: https://github.com/Rocketseat
+[nextjs]: https://nextjs.org/
