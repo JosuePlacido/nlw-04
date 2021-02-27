@@ -10,7 +10,7 @@
   <a href="#licença">Licença</a>
 </p>
 
-    ... 🚧 em construção 🚧...
+<img src="./.github/preview.gif" />
 
 <h2 id="sobre-o-projeto">Sobre o projeto</h2>
 
